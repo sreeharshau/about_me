@@ -48,7 +48,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 <br>
 
 <details> <summary> [5]
-  <strong> Partial Network Partitioning </strong> <a href="https://dl.acm.org/doi/10.1145/3576192">[Paper]</a> <a href="https://dl.acm.org/doi/pdf/10.1145/3576192">[PDF]</a><br>
+  <strong> Partial Network Partitioning </strong> <a href="https://dl.acm.org/doi/10.1145/3576192">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/NIFTY_TOCS22.pdf">[PDF]</a><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>ACM Transactions on Computer Systems (TOCS), 2022</em>
 </summary>
   
