@@ -25,20 +25,20 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 <br>
 <details> <summary> [2]
   <strong>  LoLKV: The Logless Linearizable Key-Value Storage System </strong> <a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/LoLKV-NSDI24.pdf">[PDF]</a> <br>  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024</em> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024</em></small> <br>
   </summary>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ahmed Alquraan, _Sreeharsha Udayashankar_, Virendra Marathe, Bernard Wong and Samer Al-Kiswany
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small>Ahmed Alquraan, <em>Sreeharsha Udayashankar</em>, Virendra Marathe, Bernard Wong and Samer Al-Kiswany</small>
 </details>
 
 <br>
 <details> <summary> [3]
   <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong> <a href="https://ieeexplore.ieee.org/abstract/document/10419277">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/CASRP_SRDS23.pdf">[PDF]</a> <br>  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>International Symposium on Reliable Distributed Systems (SRDS), 2023</em> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkred">Best Paper Award Nominee</code>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>International Symposium on Reliable Distributed Systems (SRDS), 2023</em><small> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkred"><small>Best Paper Award Nominee</small></code>
 </summary>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sara Qunaibi, _Sreeharsha Udayashankar_ and Samer Al-Kiswany
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small>Sara Qunaibi, <em>Sreeharsha Udayashankar</em> and Samer Al-Kiswany </small>
 </details>
 
 <br>
