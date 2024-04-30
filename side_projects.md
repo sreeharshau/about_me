@@ -1,3 +1,5 @@
+Some of my side projects are showcased in this section.
+
 ## MuZero on Super Mario Bros
 
 I have attempted to evaluate MuZero, an algorithm for deep learning published by Google Deepmind in 2019, against Deep-Q-Networks with Double-Q-Learning, the state of the art model free algorithm. I have compared their performance using the game Super Mario Bros. Clips of an agent trained using MuZero playing the game can be found below:
