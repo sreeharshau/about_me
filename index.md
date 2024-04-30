@@ -115,7 +115,10 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 </details>
 <br>
 
-
+# News
+```
+(1) Apr 2024. I will be interning at LinkedIn over the summer at their HQ in Sunnyvale!
+```
 
 
 
