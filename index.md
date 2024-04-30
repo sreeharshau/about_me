@@ -14,7 +14,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
  * <small> <font style="color:gray"><b><em>Jul 2023</em>.</b></font> We won the best patent award at <a href="https://www.acronis.com/en-us/">Acronis</a> for 2023! </small>
  ---
  
-# Publications
+## Publications
 <br>
 <details> <summary> [1]
   <strong> Draconis: Network-Accelerated Scheduling </strong> <a href="https://dl.acm.org/doi/10.1145/3627703.3650060">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/Draconis-EuroSys24.pdf">[PDF]</a> <br>
@@ -108,7 +108,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 </details>
 <br>
 
-# Patents
+## Patents
 <br>
 <details> 
   <summary> [1]
