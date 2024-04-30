@@ -55,7 +55,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM Transactions on Computer Systems (TOCS), 2022</em></small>
 </summary>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Basil Alkhatib,<em>Sreeharsha Udayashankar</em>, Sara Qunaibi, Ahmed Alquraan, Mohammed Alfatafta, Wael Al-Manasrah, Alex Depoutovitch and Samer Al-Kiswany </small>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Basil Alkhatib, <em>Sreeharsha Udayashankar</em>, Sara Qunaibi, Ahmed Alquraan, Mohammed Alfatafta, Wael Al-Manasrah, Alex Depoutovitch and Samer Al-Kiswany </small>
 </details>
 <br>
 
@@ -73,7 +73,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Theory and Practice of Differential Privacy (TPDP), 2021</em></small>
 </summary>
    
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small>Huiyi Ning,<em>Sreeharsha Udayashankar</em>, Sara Qunaibi, Karl Knopf and Xi He</small>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small>Huiyi Ning, <em>Sreeharsha Udayashankar</em>, Sara Qunaibi, Karl Knopf and Xi He</small>
 </details>
 <br>
 
@@ -92,7 +92,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
   
 </summary>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small>Ibrahim Kettaneh,<em>Sreeharsha Udayashankar</em>, Ashraf Abdel-Hadi, Robin Grosman and Samer Al-Kiswany</small>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small>Ibrahim Kettaneh, <em>Sreeharsha Udayashankar</em>, Ashraf Abdel-Hadi, Robin Grosman and Samer Al-Kiswany</small>
 </details>
 <br>
 
