@@ -19,13 +19,13 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>European Conference on Computer Systems (EuroSys), 2024</em></small> <br>
   </summary>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small><em>Sreeharsha Udayashankar</em>, Ashraf Abdel-Hadi, Ali Mashtizadeh and Samer Al-Kiswany </small>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small> <em>Sreeharsha Udayashankar</em>, Ashraf Abdel-Hadi, Ali Mashtizadeh and Samer Al-Kiswany </small>
 </details>
 
 <br>
 <details> <summary> [2]
   <strong>  LoLKV: The Logless Linearizable Key-Value Storage System </strong> <a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/LoLKV-NSDI24.pdf">[PDF]</a> <br>  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024</em></small> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small> <em> USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024 </em> </small> <br>
   </summary>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small>Ahmed Alquraan, <em>Sreeharsha Udayashankar</em>, Virendra Marathe, Bernard Wong and Samer Al-Kiswany</small>
@@ -47,7 +47,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), 2023</em>
   </summary>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alan Liu, Abdelrahman Ba'ba', _Sreeharsha Udayashankar_ and Samer Al-Kiswany
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alan Liu, Abdelrahman Ba'ba', <em>Sreeharsha Udayashankar</em> and Samer Al-Kiswany
 </details>
 <br>
 
