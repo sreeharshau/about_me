@@ -7,13 +7,12 @@ I focus on research involving recent networking advances, network failure analys
 Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design Engineer and have received my master's degree in computer science from the [University of Waterloo](https://uwaterloo.ca/).
 
 ###### Updates
-
+---
  > <small>Apr 2024. I presented <a href="https://wasl.uwaterloo.ca/projects/lolkv/">LoLKV</a> at NSDI and <a href="https://dl.acm.org/doi/10.1145/3627703.3650060">Draconis</a> at EuroSys.</small>   
  > <small>Mar 2024. I will be interning with LinkedIn over the summer at their HQ in Sunnyvale!</small>
 
 # Publications
 ---
-<br>
 <details> <summary> [1]
   <strong> Draconis: Network-Accelerated Scheduling </strong> <a href="https://dl.acm.org/doi/10.1145/3627703.3650060">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/Draconis-EuroSys24.pdf">[PDF]</a> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>European Conference on Computer Systems (EuroSys), 2024</em></small> <br>
@@ -108,7 +107,6 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 
 # Patents
 ---
-<br>
 <details> 
   <summary> [1]
     <strong> System and method of deduplication for encrypted content </strong> <br>
