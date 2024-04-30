@@ -8,7 +8,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 
 ###### Updates
 
- > <small>Apr 2024. I presented <a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan">LoLKV</a> at NSDI and <a href="https://dl.acm.org/doi/10.1145/3627703.3650060">Draconis</a> at EuroSys.</small>   
+ > <small>Apr 2024. I presented <a href="https://wasl.uwaterloo.ca/projects/lolkv/">LoLKV</a> at NSDI and <a href="https://dl.acm.org/doi/10.1145/3627703.3650060">Draconis</a> at EuroSys.</small>   
  > <small>Mar 2024. I will be interning with LinkedIn over the summer at their HQ in Sunnyvale!</small>
 
 # Publications
@@ -16,10 +16,10 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 <br>
 <details> <summary> [1]
   <strong> Draconis: Network-Accelerated Scheduling </strong> <a href="https://dl.acm.org/doi/10.1145/3627703.3650060">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/Draconis-EuroSys24.pdf">[PDF]</a> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>European Conference on Computer Systems (EuroSys), 2024</em> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>European Conference on Computer Systems (EuroSys), 2024</em></small> <br>
   </summary>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  _Sreeharsha Udayashankar_, Ashraf Abdel-Hadi, Ali Mashtizadeh and Samer Al-Kiswany
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small><em>Sreeharsha Udayashankar</em>, Ashraf Abdel-Hadi, Ali Mashtizadeh and Samer Al-Kiswany </small>
 </details>
 
 <br>
