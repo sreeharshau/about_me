@@ -12,9 +12,10 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
  * <small> <font style="color:gray"><b><em>Mar 2024</em>.</b></font> I will be interning with <a href="https://www.linkedin.com/">LinkedIn</a> over the summer at their HQ in Sunnyvale! </small>  
  * <small> <font style="color:gray"><b><em>Sep 2023</em>.</b></font> <a href="https://wasl.uwaterloo.ca/projects/nifty/">CASPR</a> was presented at SRDS 2023. </small>  
  * <small> <font style="color:gray"><b><em>Jul 2023</em>.</b></font> We won the best patent award at <a href="https://www.acronis.com/en-us/">Acronis</a> for 2023! </small>
-
+ ---
+ 
 # Publications
----
+<br>
 <details> <summary> [1]
   <strong> Draconis: Network-Accelerated Scheduling </strong> <a href="https://dl.acm.org/doi/10.1145/3627703.3650060">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/Draconis-EuroSys24.pdf">[PDF]</a> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>European Conference on Computer Systems (EuroSys), 2024</em></small> <br>
@@ -108,7 +109,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 <br>
 
 # Patents
----
+<br>
 <details> 
   <summary> [1]
     <strong> System and method of deduplication for encrypted content </strong> <br>
