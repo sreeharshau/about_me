@@ -34,7 +34,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 <br>
 <details> <summary> [3]
   <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong> <a href="https://ieeexplore.ieee.org/abstract/document/10419277">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/CASRP_SRDS23.pdf">[PDF]</a> <br>  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>International Symposium on Reliable Distributed Systems (SRDS), 2023</em><small> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>International Symposium on Reliable Distributed Systems (SRDS), 2023</em></small> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkred"><small>Best Paper Award Nominee</small></code>
 </summary>
   
