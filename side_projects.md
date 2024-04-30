@@ -1,5 +1,3 @@
-# Side Projects
-
 In my spare time, I develop applications with a variety of languages and tools. Some of these projects and their source code are showcased in this section.
 
 ## MuZero on Super Mario Bros
