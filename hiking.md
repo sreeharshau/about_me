@@ -1,5 +1,3 @@
-# Hobbies
-
 I enjoy running, cycling and hiking in my spare time. Here are a few images I've shot using my phone on some of my hikes:
 
 ## Canadian Hiking
