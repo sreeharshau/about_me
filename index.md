@@ -6,9 +6,10 @@ I focus on research involving recent networking advances, network failure analys
 
 Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design Engineer and have received my master's degree in computer science from the [University of Waterloo](https://uwaterloo.ca/).
 
-#### News
+##### Updates
 <pre>
   <em>Apr 2024</em>. I presented <a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan">LoLKV</a> at NSDI and <a href="https://dl.acm.org/doi/10.1145/3627703.3650060">Draconis</a> at EuroSys.
+  
   <em>Mar 2024</em>. I will be interning with LinkedIn over the summer at their HQ in Sunnyvale!
 </pre>
 
