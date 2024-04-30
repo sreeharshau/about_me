@@ -16,7 +16,8 @@ remote_theme: daattali/beautiful-jekyll
 navbar-links:
   Resume: "/Sreeharsha_Resume_2022.pdf"
   LinkedIn: "https://www.linkedin.com/in/sreeharshau/"
-  GitHub: "https://github.com/sreeharshau"
+  Side Projects: "https://sreeharshau.github.io/side_projects"
+  Hiking: "https://sreeharshau.github.io/hiking"
 
 social-network-links:
   email: "s2udayas@uwaterloo.ca"
