@@ -6,6 +6,10 @@ I focus on research involving recent networking advances, network failure analys
 
 Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design Engineer and have received my master's degree in computer science from the [University of Waterloo](https://uwaterloo.ca/).
 
+#### News
+```
+Apr 2024. I will be interning with LinkedIn over the summer at their HQ in Sunnyvale!
+```
 
 # Publications
 
@@ -115,10 +119,6 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 </details>
 <br>
 
-# News
-```
-(1) Apr 2024. I will be interning at LinkedIn over the summer at their HQ in Sunnyvale!
-```
 
 
 
