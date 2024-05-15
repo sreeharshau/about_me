@@ -10,7 +10,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 ---
  * <small> <font style="color:gray"><b><em>Apr 2024</em>.</b></font> I presented <a href="https://wasl.uwaterloo.ca/projects/lolkv/">LoLKV</a> at NSDI and <a href="https://wasl.uwaterloo.ca/projects/draconis/">Draconis</a> at EuroSys 2024. </small>   
  * <small> <font style="color:gray"><b><em>Feb 2024</em>.</b></font> I will be interning with <a href="https://www.linkedin.com/">LinkedIn</a> over the summer at their HQ in Sunnyvale! </small>  
- * <small> <font style="color:gray"><b><em>Sep 2023</em>.</b></font> <a href="https://wasl.uwaterloo.ca/projects/nifty/">CASPR</a> was presented at SRDS 2023. </small>  
+ * <small> <font style="color:gray"><b><em>Sep 2023</em>.</b></font> <a href="https://wasl.uwaterloo.ca/projects/nifty/">CASPR</a> was nominated for the best paper award at SRDS 2023. </small>  
  * <small> <font style="color:gray"><b><em>Jul 2023</em>.</b></font> We won the best patent award at <a href="https://www.acronis.com/en-us/">Acronis</a> for 2023! </small>
  ---
  
