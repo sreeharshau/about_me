@@ -134,7 +134,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 <details> 
   <summary> [1] 
   <strong>Ontario Graduate Scholarship</strong> <a href="https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html">[Details]</a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Ontario, 2024-2025</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Ontario, 2024-2025</em></small>
   </summary>
 </details>
 
@@ -142,7 +142,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 <details> 
   <summary> [2] 
    <strong>Spotlight Award</strong><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>AMD, 2019</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>AMD, 2019</em></small>
   </summary>
 </details>
 
