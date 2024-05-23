@@ -8,10 +8,10 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 
 ###### Updates
 ---
+ * <small> <font style="color:gray"><b><em>May 2024</em>.</b></font> I have been awarded the <a href= "https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html">Ontario Graduate Scholarship</a> for 2024-2025! </small>
  * <small> <font style="color:gray"><b><em>Apr 2024</em>.</b></font> I presented <a href="https://wasl.uwaterloo.ca/projects/lolkv/">LoLKV</a> at NSDI and <a href="https://wasl.uwaterloo.ca/projects/draconis/">Draconis</a> at EuroSys 2024. </small>   
  * <small> <font style="color:gray"><b><em>Feb 2024</em>.</b></font> I will be interning with <a href="https://www.linkedin.com/">LinkedIn</a> over the summer at their HQ in Sunnyvale! </small>  
- * <small> <font style="color:gray"><b><em>Sep 2023</em>.</b></font> <a href="https://wasl.uwaterloo.ca/projects/nifty/">CASPR</a> was nominated for the best paper award at SRDS 2023. </small>  
- * <small> <font style="color:gray"><b><em>Jul 2023</em>.</b></font> We won the best patent award at <a href="https://www.acronis.com/en-us/">Acronis</a> for 2023! </small>
+ * <small> <font style="color:gray"><b><em>Sep 2023</em>.</b></font> <a href="https://wasl.uwaterloo.ca/projects/nifty/">CASPR</a> was nominated for the best paper award at SRDS 2023. </small>   
  ---
  
 ## Publications
@@ -127,7 +127,24 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Ba'ba', Samer Al-Kiswany, Serg Bell and Stanislav Protasov</small>
 </details>
+
+## Scholarships and Awards
 <br>
+<details> 
+  <summary> [1] <strong>Ontario Graduate Scholarship</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Ontario, 2024-2025</em>
+  </summary>
+</details>
+
+<br>
+<details> 
+  <summary> [2] 
+   <strong>Spotlight Award</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>AMD, 2019</em>
+  </summary>
+</details>
+
+  
 
 
 
