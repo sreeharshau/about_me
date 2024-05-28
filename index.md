@@ -133,7 +133,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 <br>
 <details> 
   <summary> [1] 
-  <strong>Ontario Graduate Scholarship</strong> <a href="https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html">[Details]</a><br>
+   <a href="https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html"><strong>Ontario Graduate Scholarship</strong></a><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Ontario, 2024-2025</em></small>
   </summary>
 </details>
@@ -141,7 +141,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 <br>
 <details> 
   <summary> [2] 
-  <strong>President's Graduate Scholarship</strong> <a href="https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/current-students/internal-waterloo-awards/presidents-graduate-scholarship">[Details]</a><br>
+  <strong><a href="https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/current-students/internal-waterloo-awards/presidents-graduate-scholarship">President's Graduate Scholarship</a></strong><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>University of Waterloo, 2024-2025</em></small>
   </summary>
 </details>
