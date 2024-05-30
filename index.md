@@ -26,7 +26,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 
 <br>
 <details> <summary> [2]
-  <strong> Draconis: Network-Accelerated Scheduling </strong> <a href="https://dl.acm.org/doi/10.1145/3627703.3650060">[Paper]</a> <a href="papers/Draconis_EuroSys24.pdf">[PDF]</a> <br>
+  <strong> Draconis: Network-Accelerated Scheduling </strong> <a href="https://dl.acm.org/doi/10.1145/3627703.3650060">[Paper]</a> <a href="papers/Draconis_EuroSys24.pdf">[PDF]</a> <a href="papers/Draconis_EuroSys24_Slides.pdf">[Slides]</a> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>European Conference on Computer Systems (EuroSys), 2024</em></small> <br>
   </summary>
   
@@ -35,7 +35,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 
 <br>
 <details> <summary> [3]
-  <strong>  LoLKV: The Logless Linearizable Key-Value Storage System </strong> <a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan">[Paper]</a> <a href="papers/LoLKV_NSDI24.pdf">[PDF]</a> <br>  
+  <strong>  LoLKV: The Logless Linearizable Key-Value Storage System </strong> <a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan">[Paper]</a> <a href="papers/LoLKV_NSDI24.pdf">[PDF]</a> <a href="papers/LoLKV_NSDI24_Slides.pdf">[Slides]</a> <br>  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024 </em></small> <br>
   </summary>
   
