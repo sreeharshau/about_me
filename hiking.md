@@ -4,15 +4,15 @@ Here are a few images I've shot using my phone on some of my hikes:
 
 | Sunshine Meadows - _Banff National Park_ | Peyto Lake - _Banff National Park_  |
 :-------------------------:|:-------------------------:
-![](Sunshine_Banff.jpg)  |  ![](Peyto_Banff.jpg)
+![](images/Sunshine_Banff.jpg)  |  ![](images/Peyto_Banff.jpg)
 
 | Flowerpot Island - _Bruce Peninsula National Park_ |   The Grotto - _Bruce Peninsula National Park_  |
 :-------------------------:|:-------------------------:
-![Flowerpot Island (_Ontario_)](Flowerpot_Bruce.jpg)  |  ![The Grotto (_Ontario_)](Grotto_Bruce.jpg)
+![Flowerpot Island (_Ontario_)](images/Flowerpot_Bruce.jpg)  |  ![The Grotto (_Ontario_)](images/Grotto_Bruce.jpg)
 
 | Centennial Ridges - _Algonquin Provincial Park_ |  Track and Tower - _Algonquin Provincial Park_ |
 :-------------------------:|:-------------------------:
-![](Algonquin_2020_2.jpg)  |  ![](TrackTower_Algonquin.jpg)
+![](images/Algonquin_2020_2.jpg)  |  ![](images/TrackTower_Algonquin.jpg)
 
 
 
@@ -20,4 +20,4 @@ Here are a few images I've shot using my phone on some of my hikes:
 
 BR Hills - _Karnataka_   |  Tadiandamol - _Karnataka_
 :-------------------------:|:-------------------------:
-![](BRHills_2019.jpg)  |  ![](Tadiandamol_2019.jpg)
+![](images/BRHills_2019.jpg)  |  ![](images/Tadiandamol_2019.jpg)
