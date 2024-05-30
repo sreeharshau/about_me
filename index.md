@@ -26,7 +26,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 
 <br>
 <details> <summary> [2]
-  <strong> Draconis: Network-Accelerated Scheduling </strong> <a href="https://dl.acm.org/doi/10.1145/3627703.3650060">[Paper]</a> <a href="papers/Draconis_EuroSys24.pdf">[PDF]</a> <a href="papers/Draconis_EuroSys24_Slides.pdf">[Slides]</a> <br>
+  <strong> Draconis: Network-Accelerated Scheduling </strong> <small> <a href="https://dl.acm.org/doi/10.1145/3627703.3650060">[Paper]</a> <a href="papers/Draconis_EuroSys24.pdf">[PDF]</a> <a href="papers/Draconis_EuroSys24_Slides.pdf">[Slides]</a> </small> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>European Conference on Computer Systems (EuroSys), 2024</em></small> <br>
   </summary>
   
