@@ -27,7 +27,7 @@ Prior to this, I worked at [AMD](https://www.amd.com/en.html) as a Design Engine
 
 <br>
 <details> <summary> [2]
-  <strong> The Impact of Low-Entropy on Data Deduplication </strong> <small> <a href="papers/LowEntropy_CLOUD24.pdf">[PDF]</a> </small> <br>
+  <strong> The Impact of Low-Entropy on Data Deduplication </strong> <small>  <a href="https://ieeexplore.ieee.org/document/10643911">[Paper]</a>  <a href="papers/LowEntropy_CLOUD24.pdf">[PDF]</a> </small> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>IEEE International Conference on Cloud Computing (CLOUD), 2024</em></small> <br>
   </summary> 
   
