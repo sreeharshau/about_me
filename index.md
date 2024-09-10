@@ -22,7 +22,7 @@ Prior to this, I worked at [AMD](https://www.amd.com/en.html) as a Design Engine
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM International Conference on Middleware (MIDDLEWARE), 2024</em></small> <br>
   </summary> 
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small> <em>Sreeharsha Udayashankar </em>, Abdelrahman Baba and Samer Al-Kiswany </small>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small> <em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small>
 </details>
 
 <br>
@@ -31,7 +31,7 @@ Prior to this, I worked at [AMD](https://www.amd.com/en.html) as a Design Engine
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>IEEE Modeling and Analysis of Computer and Telecommunication Systems (MASCOTS), 2024</em></small> <br>
   </summary> 
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small> <em>Sreeharsha Udayashankar* </em>, Seba Khaleel* and Samer Al-Kiswany </small>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small> <em>Sreeharsha Udayashankar*,</em> Seba Khaleel* and Samer Al-Kiswany </small>
 </details>
 
 <br>
