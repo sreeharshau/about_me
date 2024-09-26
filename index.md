@@ -19,7 +19,7 @@ Prior to this, I worked at [AMD](https://www.amd.com/en.html) as a Design Engine
 <br>
 <details> <summary> [1]
   <strong> SeqCDC: Hashless Content-Defined Chunking for Data Deduplication </strong> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM/IFIP International Conference on Middleware (MIDDLEWARE), 2024</em></small> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IFIP International Conference on Middleware (MIDDLEWARE), 2024</em></small> <br>
   </summary> 
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small> <em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small>
@@ -28,7 +28,7 @@ Prior to this, I worked at [AMD](https://www.amd.com/en.html) as a Design Engine
 <br>
 <details> <summary> [2]
   <strong> Slicify: Fault Injection Testing for Network Partitions </strong> <small> <a href="papers/Slicify_MASCOTS24.pdf">[PDF] </a> </small> <br> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>IEEE International Symposium on the Modeling and Analysis of Computer and Telecommunication Systems (MASCOTS), 2024</em></small> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>IEEE Modeling and Analysis of Computer and Telecommunication Systems (MASCOTS), 2024</em></small> <br>
   </summary> 
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small> <em>Sreeharsha Udayashankar*,</em> Seba Khaleel* and Samer Al-Kiswany </small>
