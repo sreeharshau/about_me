@@ -4,17 +4,21 @@ Here are a few images I've shot using my phone on some of my hikes:
 
 | Sunshine Meadows - _Banff National Park_ | Peyto Lake - _Banff National Park_  |
 :-------------------------:|:-------------------------:
-![](images/Sunshine_Banff.jpg)  |  ![](images/Peyto_Banff.jpg)
+![Sunshine Meadows (_Banff_)](images/Sunshine_Banff.jpg)  |  ![Peyto Lake (_Banff_)](images/Peyto_Banff.jpg)
 
-| Flowerpot Island - _Bruce Peninsula National Park_ |   The Grotto - _Bruce Peninsula National Park_  |
+| Emerald Lake - _Yoho National Park_ |   The Grotto - _Bruce Peninsula National Park_  |
 :-------------------------:|:-------------------------:
-![Flowerpot Island (_Ontario_)](images/Flowerpot_Bruce.jpg)  |  ![The Grotto (_Ontario_)](images/Grotto_Bruce.jpg)
+![Emerald Lake (_British Columbia_)](images/Emerald_Yoho.jpg)  |  ![The Grotto (_Ontario_)](images/Grotto_Bruce.jpg)
 
-| Centennial Ridges - _Algonquin Provincial Park_ |  Track and Tower - _Algonquin Provincial Park_ |
+| Lookout Trail - _Mono Cliffs Provincial Park_ |  Track and Tower - _Algonquin Provincial Park_ |
 :-------------------------:|:-------------------------:
-![](images/Algonquin_2020_2.jpg)  |  ![](images/TrackTower_Algonquin.jpg)
+![](images/MonoCliffs_Ontario.jpg)  |  ![](images/TrackTower_Algonquin.jpg)
 
+## Californian Hiking
 
+Vernal Falls - _Yosemite National Park_   |  General Sherman - _Sequoia National Park_
+:-------------------------:|:-------------------------:
+![](images/Vernal_Yosemite.jpg)  |  ![](images/Sherman_Sequoia.jpg)
 
 ## Indian Hiking
 
