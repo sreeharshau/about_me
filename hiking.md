@@ -10,15 +10,9 @@ Here are a few images I've shot using my phone on some of my hikes:
 :-------------------------:|:-------------------------:
 ![Emerald Lake (_British Columbia_)](images/Emerald_Yoho.jpg)  |  ![The Grotto (_Ontario_)](images/Grotto_Bruce.jpg)
 
-| Lookout Trail - _Mono Cliffs Provincial Park_ |  Track and Tower - _Algonquin Provincial Park_ |
+| Flowerpot island - _Bruce Peninsula National Park_ |  Track and Tower - _Algonquin Provincial Park_ |
 :-------------------------:|:-------------------------:
-![](images/MonoCliffs_Ontario.jpg)  |  ![](images/TrackTower_Algonquin.jpg)
-
-## Californian Hiking
-
-Vernal Falls - _Yosemite National Park_   |  General Sherman - _Sequoia National Park_
-:-------------------------:|:-------------------------:
-![](images/Vernal_Yosemite.jpg)  |  ![](images/Sherman_Sequoia.jpg)
+![](images/Flowerpot_Bruce.jpg)  |  ![](images/TrackTower_Algonquin.jpg)
 
 ## Indian Hiking
 
