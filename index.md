@@ -18,7 +18,7 @@ Prior to this, I worked at [AMD](https://www.amd.com/en.html) as a Design Engine
 
 <br>
 <details> <summary> [1]
-  <strong> SeqCDC: Hashless Content-Defined Chunking for Data Deduplication </strong> <br>
+  <strong> SeqCDC: Hashless Content-Defined Chunking for Data Deduplication </strong> <small> <a href="papers/SeqCDC_Middleware24.pdf">[PDF] </a> </small> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IFIP International Conference on Middleware (MIDDLEWARE), 2024</em></small> <br>
   </summary> 
   
