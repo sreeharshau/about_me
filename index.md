@@ -27,7 +27,7 @@ Prior to this, I worked at [AMD](https://www.amd.com/en.html) as a Design Engine
 
 <br>
 <details> <summary> [2]
-  <strong> Slicify: Fault Injection Testing for Network Partitions </strong> <small> <a href="papers/Slicify_MASCOTS24.pdf">[PDF] </a> </small> <br> 
+  <strong> Slicify: Fault Injection Testing for Network Partitions </strong> <small> <a href="papers/Slicify_MASCOTS24.pdf">[PDF]</a> <a href="papers/Slicify_MASCOTS24_Slides.pdf">[Slides]</a> </small> <br> 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>IEEE Modeling and Analysis of Computer and Telecommunication Systems (MASCOTS), 2024</em></small> <br>
   </summary> 
   
