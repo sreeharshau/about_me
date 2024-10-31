@@ -18,7 +18,7 @@ Prior to this, I worked at [AMD](https://www.amd.com/en.html) as a Design Engine
 
 <br>
 <details> <summary> [1]
-  <strong> Measuring the runtime performance of C++ code written by humans using GitHub CoPilot </strong> <br>
+  <strong> Measuring the runtime performance of C++ code written using GitHub CoPilot </strong> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IEEE International Conference on Software Engineering (ICSE), 2025</em></small> <br>
   </summary> 
   
