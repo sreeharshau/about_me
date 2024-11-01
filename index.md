@@ -162,7 +162,7 @@ Prior to this, I worked at [AMD](https://www.amd.com/en.html) as a Design Engine
 <details> 
   <summary> [1] 
    <a href="https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html"><strong>Ontario Graduate Scholarship</strong></a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Ontario, 2024-2025</em></small>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Government of Ontario, 2024-2025</em></small>
   </summary>
 </details>
 
