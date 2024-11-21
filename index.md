@@ -1,10 +1,10 @@
 <img src="images/Title_Image_2.jpg" width=350>
 
-I am Sreeharsha, a computer science researcher interested in Distributed Systems. I am currently enrolled in the Computer Science PhD program at the [University of Waterloo](https://uwaterloo.ca/). I work with the [Waterloo Advanced Systems Lab](https://wasl.uwaterloo.ca/), advised by [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html).
+I am Sreeharsha, a computer science researcher interested in Distributed Systems. I am currently enrolled in the Computer Science PhD program at the [University of Waterloo](https://uwaterloo.ca/), advised by [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html). I work with the [Waterloo Advanced Systems Lab](https://wasl.uwaterloo.ca/). I received my master's degree from the [University of Waterloo](https://uwaterloo.ca/) in 2021.
 
 My research focuses on enabling the next generation of data center workloads by targeting scheduling, low-latency online data storage, efficient offline storage, and system reliability. I utilize hardware-software codesign with P4 programmable switches, RDMA, and SSE/AVX CPU instructions to accelerate distributed systems operating in these areas.
 
-During my PhD, I interned with the Liquid Graph database team at [LinkedIn](https://www.linkedin.com/). Prior to this, I worked at [AMD](https://www.amd.com/en.html) with the CPU performance team. I received my master's degree in computer science from the [University of Waterloo](https://uwaterloo.ca/).
+During my PhD, I interned with the Liquid Graph database team at [LinkedIn](https://www.linkedin.com/). Before this, I worked at [AMD](https://www.amd.com/en.html) for a few years on CPU performance (including the [Ryzen](https://www.amd.com/en/products/processors/desktops/ryzen.html) series!).  I spent a few summers during my undergraduate studies interning at [Philips](https://www.philips.com/global) and the [Indian Institute of Science](https://iisc.ac.in/).
 
 ###### Updates
 ---
