@@ -2,9 +2,9 @@
 
 I am Sreeharsha, a computer science researcher interested in Distributed Systems. I am currently enrolled in the Computer Science PhD program at the [University of Waterloo](https://uwaterloo.ca/). I work with the [Waterloo Advanced Systems Lab](https://wasl.uwaterloo.ca/), advised by [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html).
 
-I focus on research involving recent networking advances, network failure analysis, and data deduplication for cloud-based systems. I am currently working on improving content-defined data chunking techniques and enhancing security guarantees within deduplication systems.
+My research focuses on enabling the next generation of data center workloads by targeting scheduling, low-latency online data storage, efficient offline storage, and system reliability. I utilize hardware-software codesign with P4 programmable switches, RDMA, and SSE/AVX CPU instructions to accelerate distributed systems operating in these areas.
 
-Prior to this, I worked at [AMD](https://www.amd.com/en.html) as a Design Engineer and have received my master's degree in computer science from the [University of Waterloo](https://uwaterloo.ca/).
+During my PhD, I interned with the Liquid Graph database team at [LinkedIn](https://www.linkedin.com/). Prior to this, I worked at [AMD](https://www.amd.com/en.html) with the CPU performance team. I received my master's degree in computer science from the [University of Waterloo](https://uwaterloo.ca/).
 
 ###### Updates
 ---
