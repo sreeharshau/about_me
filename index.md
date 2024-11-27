@@ -27,7 +27,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 
 <br>
 <details> <summary> [2]
-  <strong> SeqCDC: Hashless Content-Defined Chunking for Data Deduplication </strong> <small> <a href="papers/SeqCDC_Middleware24.pdf">[PDF] </a> </small> <br>
+  <strong> SeqCDC: Hashless Content-Defined Chunking for Data Deduplication </strong> <small> <a href="https://dl.acm.org/doi/10.1145/3652892.3700766">[Paper]</a> <a href="papers/SeqCDC_Middleware24.pdf">[PDF] </a> </small> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IFIP International Conference on Middleware (MIDDLEWARE), 2024</em></small> <br>
   </summary> 
   
