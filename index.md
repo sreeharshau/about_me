@@ -8,10 +8,10 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 
 ###### Updates
 ---
+* <small> <font style="color:gray"><b><em>Dec 2024</em>.</b></font> I presented <a href="https://wasl.uwaterloo.ca/projects/nifty/">Slicify</a> at MASCOTS and SeqCDC at MIDDLEWARE 2024.</small>
  * <small> <font style="color:gray"><b><em>Jun 2024</em>.</b></font> I have been awarded the <a href= "https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html">Ontario Graduate Scholarship</a> for 2024-2025! </small>
  * <small> <font style="color:gray"><b><em>Apr 2024</em>.</b></font> I presented <a href="https://wasl.uwaterloo.ca/projects/lolkv/">LoLKV</a> at NSDI and <a href="https://wasl.uwaterloo.ca/projects/draconis/">Draconis</a> at EuroSys 2024. </small>   
- * <small> <font style="color:gray"><b><em>Feb 2024</em>.</b></font> I will be interning with <a href="https://www.linkedin.com/">LinkedIn</a> over the summer at their HQ in Sunnyvale! </small>  
- * <small> <font style="color:gray"><b><em>Sep 2023</em>.</b></font> <a href="https://wasl.uwaterloo.ca/projects/nifty/">CASPR</a> was nominated for the best paper award at SRDS 2023. </small>   
+ * <small> <font style="color:gray"><b><em>Feb 2024</em>.</b></font> I will be interning with <a href="https://www.linkedin.com/">LinkedIn</a> over the summer at their HQ in Sunnyvale! </small>     
  ---
  
 ## Publications
