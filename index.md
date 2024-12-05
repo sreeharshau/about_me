@@ -37,7 +37,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 <br>
 <details> <summary> [3]
   <strong> SeqCDC: Hashless Chunking for Data Deduplication </strong> <small> <a href="https://dl.acm.org/doi/10.1145/3652892.3700766">[Paper]</a> <a href="papers/SeqCDC_Middleware24.pdf">[PDF] </a> </small> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IFIP International Conference on Middleware (MIDDLEWARE), 2024</em></small> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IFIP International Middleware Conference (MIDDLEWARE), 2024</em></small> <br>
   </summary> 
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small> <em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small>
