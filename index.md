@@ -27,7 +27,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 
 <br>
 <details> <summary> [2]
-  <strong> Measuring the runtime performance of C++ code written using GitHub CoPilot </strong> <small> <a href="papers/Copilot_ICSE25.pdf">[PDF] </a> </small> <br>
+  <strong> Measuring the runtime performance of code written using GitHub CoPilot </strong> <small> <a href="papers/Copilot_ICSE25.pdf">[PDF] </a> </small> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IEEE International Conference on Software Engineering (ICSE), 2025</em></small> <br>
   </summary> 
   
