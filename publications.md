@@ -1,4 +1,4 @@
-## List of Publications
+# List of Publications
 <br>
 <details> <summary> [1]
   <strong> VectorCDC: Accelerating Data Deduplication with SSE/AVX Instructions </strong> <br>
