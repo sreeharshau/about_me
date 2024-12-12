@@ -14,7 +14,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
  * <small> <font style="color:gray"><b><em>Feb 2024</em>.</b></font> I will be interning with <a href="https://www.linkedin.com/">LinkedIn</a> over the summer at their HQ in Sunnyvale! </small>     
  ---
  
-## Selected Publications
+## Selected Papers
 
 <br>
 <details> <summary> [1]
