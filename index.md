@@ -64,8 +64,6 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 <br>
 <strong><a href="https://sreeharshau.github.io/publications">+10 more</a></strong> 
 
-
-
 ## Patents
 <br>
 <details> 
