@@ -1,4 +1,5 @@
-# List of Publications
+This page contains my full list of publications with links.
+## Papers
 <br>
 <details> <summary> [1]
   <strong> VectorCDC: Accelerating Data Deduplication with SSE/AVX Instructions </strong> <br>
