@@ -62,7 +62,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small>Sara Qunaibi, <em>Sreeharsha Udayashankar</em> and Samer Al-Kiswany </small>
 </details>
 <br>
-<strong><a href="all_publications">+10 more</a></strong> 
+<strong><a href="https://sreeharshau.github.io/publications">+10 more</a></strong> 
 
 
 
