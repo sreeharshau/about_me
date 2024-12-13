@@ -27,26 +27,29 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 
 <br>
 <details> <summary> [2]
-  <strong> SeqCDC: Hashless Chunking for Data Deduplication </strong> <small> <a href="https://dl.acm.org/doi/10.1145/3652892.3700766">[Paper]</a> <a href="papers/SeqCDC_Middleware24.pdf">[PDF]</a> <a href="papers/SeqCDC_Middleware24_Slides.pdf">[Slides]</a> </small> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IFIP International Middleware Conference (MIDDLEWARE), 2024</em></small> <br>
+  <strong> SeqCDC: Hashless Chunking for Data Deduplication </strong> <br> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IFIP International Middleware Conference (MIDDLEWARE), 2024</em></small> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><a href="https://dl.acm.org/doi/10.1145/3652892.3700766">[Paper]</a> <a href="papers/SeqCDC_Middleware24.pdf">[PDF]</a> <a href="papers/SeqCDC_Middleware24_Slides.pdf">[Slides]</a> </small>
   </summary> 
-  
+ 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small> <em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small>
 </details>
 
 <br>
 <details> <summary> [3]
-  <strong> Draconis: Network-Accelerated Scheduling </strong> <small> <a href="https://dl.acm.org/doi/10.1145/3627703.3650060">[Paper]</a> <a href="papers/Draconis_EuroSys24.pdf">[PDF]</a> <a href="papers/Draconis_EuroSys24_Slides.pdf">[Slides]</a> </small> <br>
+  <strong> Draconis: Network-Accelerated Scheduling </strong> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM SIGOPS European Conference on Computer Systems (EuroSys), 2024</em></small> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><a href="https://dl.acm.org/doi/10.1145/3627703.3650060">[Paper]</a> <a href="papers/Draconis_EuroSys24.pdf">[PDF]</a> <a href="papers/Draconis_EuroSys24_Slides.pdf">[Slides]</a></small>
   </summary>
-  
+ 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small> <em>Sreeharsha Udayashankar</em>, Ashraf Abdel-Hadi, Ali Mashtizadeh and Samer Al-Kiswany </small>
 </details>
 
 <br>
 <details> <summary> [4]
-  <strong>  LoLKV: The Logless Linearizable Key-Value Storage System </strong> <small> <a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan">[Paper]</a> <a href="papers/LoLKV_NSDI24.pdf">[PDF]</a> <a href="papers/LoLKV_NSDI24_Slides.pdf">[Slides]</a> </small> <br>  
+  <strong>  LoLKV: The Logless Linearizable Key-Value Storage System </strong> <br>  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024 </em></small> <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan">[Paper]</a> <a href="papers/LoLKV_NSDI24.pdf">[PDF]</a> <a href="papers/LoLKV_NSDI24_Slides.pdf">[Slides]</a> </small>
   </summary>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small>Ahmed Alquraan, <em>Sreeharsha Udayashankar</em>, Virendra Marathe, Bernard Wong and Samer Al-Kiswany</small>
@@ -54,9 +57,10 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 
 <br>
 <details> <summary> [5]
-  <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong> <small> <a href="https://ieeexplore.ieee.org/abstract/document/10419277">[Paper]</a> <a href="papers/CASPR_SRDS23.pdf">[PDF]</a> </small> <br>  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>International Symposium on Reliable Distributed Systems (SRDS), 2023</em></small> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkred"><small>Best Paper Award Nominee</small></code>
+  <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong> <br>  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>International Symposium on Reliable Distributed Systems (SRDS), 2023</em></small> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkred"><small>Best Paper Award Nominee</small></code> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><a href="https://ieeexplore.ieee.org/abstract/document/10419277">[Paper]</a> <a href="papers/CASPR_SRDS23.pdf">[PDF]</a> </small>
 </summary>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small>Sara Qunaibi, <em>Sreeharsha Udayashankar</em> and Samer Al-Kiswany </small>
