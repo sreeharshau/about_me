@@ -27,7 +27,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 
 <br>
 <details> <summary> [2]
-  <strong> SeqCDC: Hashless Chunking for Data Deduplication </strong> <br> 
+  <strong> SeqCDC: Hashless Content-Defined Chunking for Data Deduplication </strong> <br> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IFIP International Middleware Conference (MIDDLEWARE), 2024</em></small> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><a href="https://dl.acm.org/doi/10.1145/3652892.3700766">[Paper]</a> <a href="papers/SeqCDC_Middleware24.pdf">[PDF]</a> <a href="papers/SeqCDC_Middleware24_Slides.pdf">[Slides]</a> <a href="https://github.com/UWASL/dedup-bench">[Code]</a></small>
   </summary> 
@@ -36,9 +36,8 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 </details>
 
 <br>
-![Draconis_Logo](images/Draconis_Logo.png)
 <details> <summary> [3]
-  <strong> Draconis: Network-Accelerated Scheduling </strong> <br>
+  <strong> Draconis: Network-Accelerated Scheduling for Microsecond-Scale Workloads </strong> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM SIGOPS European Conference on Computer Systems (EuroSys), 2024</em></small> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><a href="https://dl.acm.org/doi/10.1145/3627703.3650060">[Paper]</a> <a href="papers/Draconis_EuroSys24.pdf">[PDF]</a> <a href="papers/Draconis_EuroSys24_Slides.pdf">[Slides]</a> <a href="https://github.com/UWASL/Draconis">[Code]</a></small>
   </summary>
