@@ -53,7 +53,7 @@ This page contains my full list of publications with links. They can also be fou
 
 <br>
 <details> <summary> [10]
-  <strong> Draconis: Network-Accelerated Scheduling for Microsecond-Scale Workloads </strong> <small><br>
+  <strong> Draconis: Network-Accelerated Scheduling for Microsecond-Scale Workloads </strong><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM SIGOPS European Conference on Computer Systems (EuroSys), 2024</em></small> <br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><a href="https://dl.acm.org/doi/10.1145/3627703.3650060">[Paper]</a> <a href="papers/Draconis_EuroSys24.pdf">[PDF]</a> <a href="papers/Draconis_EuroSys24_Slides.pdf">[Slides]</a> <a href="https://github.com/UWASL/Draconis">[Code]</a></small>
   </summary>
