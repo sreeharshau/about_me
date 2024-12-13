@@ -36,6 +36,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 </details>
 
 <br>
+![Draconis_Logo](images/Draconis_Logo.png)
 <details> <summary> [3]
   <strong> Draconis: Network-Accelerated Scheduling </strong> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM SIGOPS European Conference on Computer Systems (EuroSys), 2024</em></small> <br>
