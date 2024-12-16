@@ -35,7 +35,7 @@ This page contains my full list of publications with links. They can also be fou
 <details> <summary> [12]
   <strong> Slicify: Fault Injection Testing for Network Partitions </strong> <br> 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>IEEE Modeling and Analysis of Computer and Telecommunication Systems (MASCOTS), 2024</em></small> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><a href="papers/Slicify_MASCOTS24.pdf">[PDF]</a> <a href="papers/Slicify_MASCOTS24_Slides.pdf">[Slides]</a> <a href="https://github.com/UWASL/slicify">[Code]</a> </small> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><a href="https://ieeexplore.ieee.org/document/10786337">[Paper]</a> <a href="papers/Slicify_MASCOTS24.pdf">[PDF]</a> <a href="papers/Slicify_MASCOTS24_Slides.pdf">[Slides]</a> <a href="https://github.com/UWASL/slicify">[Code]</a> </small> 
   </summary> 
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small> <em>Sreeharsha Udayashankar*,</em> Seba Khaleel* and Samer Al-Kiswany </small>
