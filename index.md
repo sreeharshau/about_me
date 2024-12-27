@@ -1,6 +1,6 @@
 <img src="images/Title_Image_2.jpg" width=350>
 
-I am Sreeharsha, a computer science researcher interested in Distributed Systems. I am currently enrolled in the Computer Science PhD program at the [University of Waterloo](https://uwaterloo.ca/), advised by [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html). My research focuses on enabling the next generation of data center workloads by targeting scheduling, low-latency online data storage, efficient offline storage, and system reliability. 
+I am Sreeharsha, a computer science PhD student at the [University of Waterloo](https://uwaterloo.ca/), advised by [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html). My research spans distributed systems, focusing on enabling the next generation of data center workloads by targeting scheduling, low-latency online data storage, efficient offline storage, and system reliability. 
 
 During my PhD, I interned with the Liquid Graph database team at [LinkedIn](https://www.linkedin.com/). Before this, I worked at [AMD](https://www.amd.com/en.html) for a few years on CPU performance (including the [Ryzen](https://www.amd.com/en/products/processors/desktops/ryzen.html) series!).  I spent a few summers during my undergraduate studies interning at [Philips](https://www.philips.com/global) and the [Indian Institute of Science](https://iisc.ac.in/).
 
