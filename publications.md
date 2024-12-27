@@ -11,7 +11,7 @@ This page contains my full list of publications with links. They can also be fou
 
 <br>
 <details> <summary> [14]
-  <strong> Measuring the runtime performance of code written using GitHub CoPilot </strong><br>
+  <strong> Measuring the runtime performance of C++ code written by humans using GitHub CoPilot </strong><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IEEE International Conference on Software Engineering (ICSE), 2025</em></small>
   </summary> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><a href="papers/Copilot_ICSE25.pdf">[PDF]</a> </small> <br>
