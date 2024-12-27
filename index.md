@@ -69,7 +69,6 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
     <strong> System and method of deduplication for encrypted content </strong> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkred"><small>Best Patent Award for 2023  - Acronis</small></code>
   </summary>
-  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Ba'ba', Samer Al-Kiswany, Serg Bell and Stanislav Protasov</small>
 </details>
 <br>
