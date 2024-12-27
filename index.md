@@ -1,8 +1,6 @@
 <img src="images/Title_Image_2.jpg" width=350>
 
-I am Sreeharsha, a computer science researcher interested in Distributed Systems. I am currently enrolled in the Computer Science PhD program at the [University of Waterloo](https://uwaterloo.ca/), advised by [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html). 
-
-My research focuses on enabling the next generation of data center workloads by targeting scheduling, low-latency online data storage, efficient offline storage, and system reliability. I utilize hardware-software codesign with P4 programmable switches, RDMA, and SSE/AVX CPU instructions to accelerate distributed systems operating in these areas.
+I am Sreeharsha, a computer science researcher interested in Distributed Systems. I am currently enrolled in the Computer Science PhD program at the [University of Waterloo](https://uwaterloo.ca/), advised by [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html). My research focuses on enabling the next generation of data center workloads by targeting scheduling, low-latency online data storage, efficient offline storage, and system reliability. 
 
 During my PhD, I interned with the Liquid Graph database team at [LinkedIn](https://www.linkedin.com/). Before this, I worked at [AMD](https://www.amd.com/en.html) for a few years on CPU performance (including the [Ryzen](https://www.amd.com/en/products/processors/desktops/ryzen.html) series!).  I spent a few summers during my undergraduate studies interning at [Philips](https://www.philips.com/global) and the [Indian Institute of Science](https://iisc.ac.in/).
 
@@ -27,41 +25,43 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 
 <br>
 <details> <summary> [2]
-  <strong> SeqCDC: Hashless Content-Defined Chunking for Data Deduplication </strong> <br> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IFIP International Middleware Conference (MIDDLEWARE), 2024</em></small> <br>
+  <strong> SeqCDC: Hashless Content-Defined Chunking for Data Deduplication </strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IFIP International Middleware Conference (MIDDLEWARE), 2024</em></small>
   </summary> 
  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small> <em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small>
+  </summary> 
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><a href="https://dl.acm.org/doi/10.1145/3652892.3700766">[Paper]</a> <a href="papers/SeqCDC_Middleware24.pdf">[PDF]</a> <a href="papers/SeqCDC_Middleware24_Slides.pdf">[Slides]</a> <a href="https://github.com/UWASL/dedup-bench">[Code]</a></small><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small>
 </details>
 
 <br>
 <details> <summary> [3]
-  <strong> Draconis: Network-Accelerated Scheduling for Microsecond-Scale Workloads </strong> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM SIGOPS European Conference on Computer Systems (EuroSys), 2024</em></small> <br>
+  <strong> Draconis: Network-Accelerated Scheduling for Microsecond-Scale Workloads </strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM SIGOPS European Conference on Computer Systems (EuroSys), 2024</em></small>
   </summary>
- 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small> <em>Sreeharsha Udayashankar</em>, Ashraf Abdel-Hadi, Ali Mashtizadeh and Samer Al-Kiswany </small>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><a href="https://dl.acm.org/doi/10.1145/3627703.3650060">[Paper]</a> <a href="papers/Draconis_EuroSys24.pdf">[PDF]</a> <a href="papers/Draconis_EuroSys24_Slides.pdf">[Slides]</a> <a href="https://github.com/UWASL/Draconis">[Code]</a></small><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Ashraf Abdel-Hadi, Ali Mashtizadeh and Samer Al-Kiswany </small>
 </details>
 
 <br>
 <details> <summary> [4]
-  <strong>  LoLKV: The Logless Linearizable Key-Value Storage System </strong> <br>  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024 </em></small> <br>
+  <strong> LoLKV: The Logless Linearizable Key-Value Storage System </strong> <br>  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024 </em></small>
   </summary>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small>Ahmed Alquraan, <em>Sreeharsha Udayashankar</em>, Virendra Marathe, Bernard Wong and Samer Al-Kiswany</small>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan">[Paper]</a> <a href="papers/LoLKV_NSDI24.pdf">[PDF]</a> <a href="papers/LoLKV_NSDI24_Slides.pdf">[Slides]</a> <a href="https://www.youtube.com/watch?v=mgJoHFi845c">[Video]</a></small><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Ahmed Alquraan, <em>Sreeharsha Udayashankar</em>, Virendra Marathe, Bernard Wong and Samer Al-Kiswany</small>
 </details>
 
 <br>
 <details> <summary> [5]
-  <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong> <br>  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>International Symposium on Reliable Distributed Systems (SRDS), 2023</em></small> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkred"><small>Best Paper Award Nominee</small></code> <br>
+  <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong><br>  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>International Symposium on Reliable Distributed Systems (SRDS), 2023</em></small><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkred"><small>Best Paper Award Nominee</small></code>
 </summary>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small>Sara Qunaibi, <em>Sreeharsha Udayashankar</em> and Samer Al-Kiswany </small>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><a href="https://ieeexplore.ieee.org/abstract/document/10419277">[Paper]</a> <a href="papers/CASPR_SRDS23.pdf">[PDF]</a> <a href="https://github.com/UWASL/CASPR">[Code]</a></small><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Sara Qunaibi, <em>Sreeharsha Udayashankar</em> and Samer Al-Kiswany </small>
 </details>
-<br>
+
 <strong><a href="https://sreeharshau.github.io/publications">+10 more</a></strong> 
 
 ## Patents
