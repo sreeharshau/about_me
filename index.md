@@ -78,22 +78,33 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 <br>
 <details> 
   <summary> [1] 
-   <a href="https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html"><strong>Ontario Graduate Scholarship</strong></a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Government of Ontario, 2024-2025</em></small>
+   <a href="https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship"><strong>Cheriton Graduate Scholarship</strong></a><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>University of Waterloo, 2024-2026</em></small>
   </summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small><b>Valued at:</b> $10,000/yr</small>
 </details>
 
 <br>
 <details> 
   <summary> [2] 
-  <strong><a href="https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/current-students/internal-waterloo-awards/presidents-graduate-scholarship">President's Graduate Scholarship</a></strong><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>University of Waterloo, 2024-2025</em></small>
+   <a href="https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html"><strong>Ontario Graduate Scholarship</strong></a><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Government of Ontario, 2024-2025</em></small>
   </summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small><b>Valued at:</b> $15,000/yr</small>
 </details>
 
 <br>
 <details> 
   <summary> [3] 
+  <strong><a href="https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/current-students/internal-waterloo-awards/presidents-graduate-scholarship">President's Graduate Scholarship</a></strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>University of Waterloo, 2024-2025</em></small>
+  </summary>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small><b>Valued at:</b> $10,000/yr</small>
+</details>
+
+<br>
+<details> 
+  <summary> [4] 
    <strong>Spotlight Award</strong><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>AMD, 2017</em></small>
   </summary>
