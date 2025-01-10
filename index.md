@@ -6,10 +6,9 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 
 ###### Updates
 ---
-* <small> <font style="color:gray"><b><em>Dec 2024</em>.</b></font> I presented <a href="https://wasl.uwaterloo.ca/projects/nifty/">Slicify</a> at MASCOTS and SeqCDC at MIDDLEWARE 2024.</small>
- * <small> <font style="color:gray"><b><em>Jun 2024</em>.</b></font> I have been awarded the <a href= "https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html">Ontario Graduate Scholarship</a> for 2024-2025! </small>
- * <small> <font style="color:gray"><b><em>Apr 2024</em>.</b></font> I presented <a href="https://wasl.uwaterloo.ca/projects/lolkv/">LoLKV</a> at NSDI and <a href="https://wasl.uwaterloo.ca/projects/draconis/">Draconis</a> at EuroSys 2024. </small>   
- * <small> <font style="color:gray"><b><em>Feb 2024</em>.</b></font> I will be interning with <a href="https://www.linkedin.com/">LinkedIn</a> over the summer at their HQ in Sunnyvale! </small>     
+* <small> <font style="color:gray"><b><em>Jan 2025</em>.</b></font> I have been awarded the <a href="https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship">Cheriton Graduate Scholarship</a> for 2024-2026! </small>
+ * <small> <font style="color:gray"><b><em>Dec 2024</em>.</b></font> I presented <a href="https://wasl.uwaterloo.ca/projects/nifty/">Slicify</a> at MASCOTS and SeqCDC at Middleware 2024. </small>   
+ * <small> <font style="color:gray"><b><em>Jun 2024</em>.</b></font> I have been awarded the <a href= "https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html">Ontario Graduate Scholarship</a> for 2024-2025! </small>   
  ---
  
 ## Selected Papers
