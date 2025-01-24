@@ -21,7 +21,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small>
 </details>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Paper](images/icon-link.png)](https://www.usenix.org/conference/fast25/presentation/udayashankar) [![PDF](images/icon-pdf.png)](papers/VectorCDC_FAST25.pdf) [![Code](images/icon-code.png)](https://github.com/UWASL/dedup-bench) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Paper](images/icon-link.png)](https://www.usenix.org/conference/fast25/presentation/udayashankar) [![PDF](images/icon-pdf.png)](papers/VectorCDC_FAST25.pdf) [![Code](images/icon-code.png)](https://github.com/UWASL/dedup-bench) 
 <details> <summary> [2]
   <strong> SeqCDC: Hashless Content-Defined Chunking for Data Deduplication </strong><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IFIP International Middleware Conference (MIDDLEWARE), 2024</em></small>
