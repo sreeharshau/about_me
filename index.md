@@ -20,7 +20,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
   </summary>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small>
 </details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/fast25/presentation/udayashankar"><img src="images/icon-link.png" /></a> <a href="papers/VectorCDC_FAST25.pdf"><img src="images/icon-pdf.png" /></a> <a href="https://github.com/UWASL/dedup-bench"><img src="images/icon-code.png" /></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/fast25/presentation/udayashankar"><img height="20" src="images/icon-link.png" /></a> <a href="papers/VectorCDC_FAST25.pdf"><img height="20" src="images/icon-pdf.png" /></a> <a href="https://github.com/UWASL/dedup-bench"><img height="20" src="images/icon-code.png" /></a><br>
 
 <br>
 <details> <summary> [2]
