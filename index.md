@@ -70,8 +70,8 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkred"><small>Best Patent Award for 2023  - Acronis</small></code>
   </summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Ba'ba', Samer Al-Kiswany, Serg Bell and Stanislav Protasov</small><br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><a href="https://www.freepatentsonline.com/y2025/0005171.html">[US Patent 20250005171]</a></small>
-</details>
+ </details>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.freepatentsonline.com/y2025/0005171.html"><img height="25" src="images/icon-patent.png" />
 <br>
 
 ## Scholarships and Awards
