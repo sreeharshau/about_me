@@ -36,7 +36,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
   <strong> Draconis: Network-Accelerated Scheduling for Microsecond-Scale Workloads </strong><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM SIGOPS European Conference on Computer Systems (EuroSys), 2024</em></small>
   </summary>
-   nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Ashraf Abdel-Hadi, Ali Mashtizadeh and Samer Al-Kiswany </small>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Ashraf Abdel-Hadi, Ali Mashtizadeh and Samer Al-Kiswany </small>
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3627703.3650060"><img src="images/icon-link.png" /></a> <a href="papers/Draconis_EuroSys24.pdf"><img src="images/icon-pdf.png" /></a> <a href="papers/Draconis_EuroSys24_Slides.pdf"><img src="images/icon-slides.png" /></a> <a href="https://github.com/UWASL/Draconis"><img src="images/icon-code.png" /></a>
 
