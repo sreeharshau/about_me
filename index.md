@@ -47,7 +47,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
   </summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Ahmed Alquraan, <em>Sreeharsha Udayashankar</em>, Virendra Marathe, Bernard Wong and Samer Al-Kiswany</small>
 </details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan"><img height="25" src="images/icon-link.png" /></a> <a href="papers/LolKV_NSDI24.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="papers/LoLKV_NSDI24_Slides.pdf"><img height="25" src="images/icon-slides.png" /></a> <a href="https://www.youtube.com/watch?v=mgJoHFi845c"><img height="25" src="images/icon-video.png" /></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan"><img height="25" src="images/icon-link.png" /></a> <a href="papers/LoLKV_NSDI24.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="papers/LoLKV_NSDI24_Slides.pdf"><img height="25" src="images/icon-slides.png" /></a> <a href="https://www.youtube.com/watch?v=mgJoHFi845c"><img height="25" src="images/icon-video.png" /></a><br>
 
 <br>
 <details> <summary> [5]
