@@ -11,7 +11,7 @@ This page contains my full list of publications with links. They can also be fou
 
 <br>
 <details> <summary> [14]
-  <strong> Measuring the runtime performance of C++ code written by humans using GitHub CoPilot </strong><br>
+  <strong> Measuring the runtime performance of C++ code written using GitHub CoPilot </strong><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IEEE International Conference on Software Engineering (ICSE), 2025</em></small>
   </summary> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Daniel Erhabor, <em>Sreeharsha Udayashankar</em>, Meiyappan Nagappan and Samer Al-Kiswany </small> 
@@ -115,9 +115,9 @@ This page contains my full list of publications with links. They can also be fou
  <strong> In-Network Scheduling for Real-Time Analytics </strong> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>MMath Thesis, 2021</em> </small><br>
 </summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><a href="https://uwspace.uwaterloo.ca/handle/10012/16922">[Thesis]</a></small><br> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em></small>
 </details>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://uwspace.uwaterloo.ca/handle/10012/16922"><img height="25" src="images/icon-link.png" /></a><a href="papers/MastersThesis_2021.pdf"><img height="25" src="images/icon-pdf.png" /></a> <br>
 
 <br>
 <details> <summary> [2]
