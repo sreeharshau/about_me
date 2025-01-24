@@ -20,7 +20,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
   </summary>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small>
 </details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/fast25/presentation/udayashankar"><img src="images/icon-link.png" /></a> <a href="papers/VectorCDC_FAST25.pdf"><img src="images/icon-pdf.png" /></a> <a href="https://github.com/UWASL/dedup-bench"><img src="images/icon-code.png" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/fast25/presentation/udayashankar"><img src="images/icon-link.png" /></a> <a href="papers/VectorCDC_FAST25.pdf"><img src="images/icon-pdf.png" /></a> <a href="https://github.com/UWASL/dedup-bench"><img src="images/icon-code.png" /></a><br>
 
 <br>
 <details> <summary> [2]
@@ -29,7 +29,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
   </summary> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small>
 </details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3652892.3700766"><img src="images/icon-link.png" /></a> <a href="papers/SeqCDC_Middleware24.pdf"><img src="images/icon-pdf.png" /></a> <a href="papers/SeqCDC_Middleware24_Slides.pdf"><img src="images/icon-slides.png" /></a> <a href="https://github.com/UWASL/dedup-bench"><img src="images/icon-code.png" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3652892.3700766"><img src="images/icon-link.png" /></a> <a href="papers/SeqCDC_Middleware24.pdf"><img src="images/icon-pdf.png" /></a> <a href="papers/SeqCDC_Middleware24_Slides.pdf"><img src="images/icon-slides.png" /></a> <a href="https://github.com/UWASL/dedup-bench"><img src="images/icon-code.png" /></a><br>
 
 <br>
 <details> <summary> [3]
@@ -38,7 +38,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
   </summary>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Ashraf Abdel-Hadi, Ali Mashtizadeh and Samer Al-Kiswany </small>
 </details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3627703.3650060"><img src="images/icon-link.png" /></a> <a href="papers/Draconis_EuroSys24.pdf"><img src="images/icon-pdf.png" /></a> <a href="papers/Draconis_EuroSys24_Slides.pdf"><img src="images/icon-slides.png" /></a> <a href="https://github.com/UWASL/Draconis"><img src="images/icon-code.png" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3627703.3650060"><img src="images/icon-link.png" /></a> <a href="papers/Draconis_EuroSys24.pdf"><img src="images/icon-pdf.png" /></a> <a href="papers/Draconis_EuroSys24_Slides.pdf"><img src="images/icon-slides.png" /></a> <a href="https://github.com/UWASL/Draconis"><img src="images/icon-code.png" /></a><br>
 
 <br>
 <details> <summary> [4]
@@ -47,7 +47,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
   </summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Ahmed Alquraan, <em>Sreeharsha Udayashankar</em>, Virendra Marathe, Bernard Wong and Samer Al-Kiswany</small>
 </details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan"><img src="images/icon-link.png" /></a> <a href="papers/LolKV_NSDI24.pdf"><img src="images/icon-pdf.png" /></a> <a href="papers/LoLKV_NSDI24_Slides.pdf"><img src="images/icon-slides.png" /></a> <a href="https://www.youtube.com/watch?v=mgJoHFi845c"><img src="images/icon-video.png" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan"><img src="images/icon-link.png" /></a> <a href="papers/LolKV_NSDI24.pdf"><img src="images/icon-pdf.png" /></a> <a href="papers/LoLKV_NSDI24_Slides.pdf"><img src="images/icon-slides.png" /></a> <a href="https://www.youtube.com/watch?v=mgJoHFi845c"><img src="images/icon-video.png" /></a><br>
 
 <br>
 <details> <summary> [5]
@@ -57,7 +57,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 </summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Sara Qunaibi, <em>Sreeharsha Udayashankar</em> and Samer Al-Kiswany </small>
 </details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10419277"><img src="images/icon-link.png" /></a> <a href="papers/CASPR_SRDS23.pdf"><img src="images/icon-pdf.png" /></a> <a href="https://github.com/UWASL/CASPR"><img src="images/icon-code.png" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10419277"><img src="images/icon-link.png" /></a> <a href="papers/CASPR_SRDS23.pdf"><img src="images/icon-pdf.png" /></a> <a href="https://github.com/UWASL/CASPR"><img src="images/icon-code.png" /></a><br>
 
 <br>
 <strong><a href="https://sreeharshau.github.io/publications">+10 more</a></strong> 
