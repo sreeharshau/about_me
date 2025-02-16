@@ -1,7 +1,7 @@
 This page contains my full list of publications with links. They can also be found on my [Google Scholar profile](https://scholar.google.com/citations?user=6WkIqjkAAAAJ&hl=en).
 ## Papers
 <br>
-<details> <summary> [1]
+<details> <summary> [15]
   <strong> VectorCDC: Accelerating Data Deduplication with SSE/AVX Instructions </strong> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>USENIX Conference on File and Storage Technologies (FAST), 2025</em></small> <br>
   </summary>
